@@ -27,7 +27,7 @@ pip install -r requirements.txt
 4. Run the script:
 
 ```bash
-python rera_scraper.py
+python scrape_odisha.py
 ```
 
 > You can remove the `--headless` option from the script if you want to see the browser open during scraping.
